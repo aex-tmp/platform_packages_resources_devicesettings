@@ -227,4 +227,8 @@
     <string name="fastcharge_title">Enable USB Fastcharge</string>
     <string name="fastcharge_summary">Enable to use fastcharge when connected to an Computer</string>
 
+    <!-- Quick charge toggle -->
+    <string name="quick_charge_title">Quick charge</string>
+    <string name="quick_charge_summary">Toggle quick charge. Unplug and replug the charger after changing this setting</string>
+
 </resources>
