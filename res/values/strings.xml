@@ -243,4 +243,8 @@
     <string name="wake_on_gesture_title">Wake up on gestures</string>
     <string name="wake_on_gesture_summary">Wake the device instead of pulsing notifications on gesture events</string>
 
+    <!-- Raise to wake strings-->
+    <string name="raise_to_wake_gesture_title">Raise to wake</string>
+    <string name="raise_to_wake_gesture_summary">Wake up the device instead of pulsing notification</string>
+
 </resources>
